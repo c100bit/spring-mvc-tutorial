@@ -13,14 +13,25 @@ public class Person {
     private int age;
     private  String email;
 
-    public Person(int id, String name, int age, String email) {
+    private String address;
+
+    public Person(int id, String name, int age, String email, String address) {
         this.id = id;
         this.name = name;
         this.age = age;
         this.email = email;
+        this.address = address;
     }
 
     public  Person() {}
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
 
     public int getAge() {
         return age;
