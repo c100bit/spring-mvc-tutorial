@@ -10,8 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e08766b-9b3c-4f7d-9bfa-5929d75efc49" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0534ec83-399e-4ee0-a213-fb8f666696a1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0534ec83-399e-4ee0-a213-fb8f666696a1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/0534ec83-399e-4ee0-a213-fb8f666696a1/storage_v2/_src_/database/first_db.bWA53w/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/0534ec83-399e-4ee0-a213-fb8f666696a1/storage_v2/_src_/database/first_db.bWA53w/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/springcourse/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/springcourse/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/springcourse/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/springcourse/controllers/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/springcourse/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/springcourse/dao/PersonDAO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,7 +302,7 @@
       <workItem from="1680435005858" duration="277000" />
       <workItem from="1680435296385" duration="3672000" />
       <workItem from="1680453177309" duration="9778000" />
-      <workItem from="1681237840788" duration="3234000" />
+      <workItem from="1681237840788" duration="7801000" />
     </task>
     <servers />
   </component>
